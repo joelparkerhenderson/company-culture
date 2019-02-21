@@ -1,6 +1,13 @@
 # The Leader’s Guide to Corporate Culture
 
-https://hbr.org/2018/01/the-culture-factor
+Contents:
+
+* [](*)
+
+
+## Introduction
+
+Source: https://hbr.org/2018/01/the-culture-factor
 
 Strategy and culture are among the primary levers at top leaders’ disposal in their never-ending quest to maintain organizational viability and effectiveness. Strategy offers a formal logic for the company’s goals and orients people around them. Culture expresses goals through values and beliefs and guides activity through shared assumptions and group norms.
 
@@ -11,7 +18,7 @@ It is possible-- in fact, vital-- to improve organizational performance through 
 By integrating findings from more than 100 of the most commonly used social and behavioral models, we have identified eight styles that distinguish a culture and can be measured.
 
 
-## Introduction
+## Key actions
 
 Key actions:
 
@@ -21,6 +28,8 @@ Key actions:
 
 * Finally they can master the core change practices of articulation of the aspiration, leadership alignment, organizational conversation, and organizational design.
 
+
+## Key points
 
 Key points:
 

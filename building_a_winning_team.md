@@ -1,9 +1,17 @@
 # Building a Winning Team is No Accident
 
+Coach Steve Kerr is a big reason the Oakland Warrior’s basketball team has dominated the sport the past few year, so I was curious to see what he would talk about to a room full of CIOs and technologists. It was the best conversation on leadership I’ve ever heard.
+
+Contents:
+
+* [Tip #1: Pick a KPI and focus on it](#tip-1-pick-a-kpi-and-focus-on-it)
+* [Tip #2: Cross-train to mix it up](#tip-2-cross-train-to-mix-it-up)
+* [Tip #3: Encourage self-managing Teams](#tip-3-encourage-self-managing-teams)
+* [Tip #4: Skip the Annual Review—Give Constant Feedback](#tip-4-skip-the-annual-review-give-constant-feedback)
+* [Tip #5: Always Respect Your Team](#tip-5-always-respect-your-team)
+
 [Source](https://futurestate.com/building-a-winning-team-is-no-accident-according-to-steve-kerr/) (excerpted and edited)
 
-Coach Steve Kerr is a big reason the Oakland Warrior’s basketball team has dominated the sport the past few year, so I was curious to see what he would talk about to a room full of CIOs and technologists. It was the best conversation on leadership I’ve ever heard.
- 
 
 ## Tip #1: Pick a KPI and focus on it
 

@@ -4,6 +4,24 @@ https://www.amazon.jobs/principles
 
 We use our Leadership Principles every day, whether we're discussing ideas for new projects or deciding on the best approach to solving a problem. It is just one of the things that makes Amazon peculiar.
 
+Contents:
+
+* [Customer Obsession](#customer-obsession)
+* [Ownership](#ownership)
+* [Invent and Simplify](#invent-and-simplify)
+* [Are Right, A Lot](#are-right-a-lot)
+* [Learn and Be Curious](#learn-and-be-curious)
+* [Hire and Develop the Best](#hire-and-develop-the-best)
+* [Insist on the Highest Standards](#insist-on-the-highest-standards)
+* [Think Big](#think-big)
+* [Bias for Action](#bias-for-action)
+* [Frugality](#frugality)
+* [Earn Trust](#earn-trust)
+* [Dive Deep](#dive-deep)
+* [Have Backbone; Disagree and Commit](#have-backbone-disagree-and-commit)
+* [Deliver Results](#deliver-results)
+
+
 
 ## Customer Obsession
 

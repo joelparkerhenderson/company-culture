@@ -1,10 +1,36 @@
 # Netflix Culture
 
-https://jobs.netflix.com/culture
+Source: https://jobs.netflix.com/culture
 
 Entertainment, like friendship, is a fundamental human need; it changes how we feel and gives us common ground. Netflix is better entertainment at lower cost and greater scale than the world has ever seen. We want to entertain everyone, and make the world smile.
 
 This document is about our unusual employee culture, which is helping us entertain everyone.
+
+Contents:
+
+* [Introduction](#introduction)
+* [Real Values](#real-values)
+  * [Judgment](#judgment)
+  * [Communication](#communication)
+  * [Curiosity](#curiosity)
+  * [Courage](#courage)
+  * [Passion](#passion)
+  * [Selflessness](#selflessness)
+  * [Innovation](#innovation)
+  * [Inclusion](#inclusion)
+  * [Integrity](#integrity)
+  * [Impact](#impact)
+* [Dream Team](#dream-team)
+  * [Freedom & Responsibility](#freedom-responsibility)
+* [Informed Captains](#informed-captains)
+* [Context Not Control](#context-not-control)
+  * [Highly Aligned, Loosely Coupled](#highly-aligned-loosely-coupled)
+  * [Seeking Excellence](#seeking-excellence)
+  * [Summary](#summary)
+* [Finally](#finally)
+
+
+## Introduction
 
 Like all great companies, we strive to hire the best and we value integrity, excellence, respect, and collaboration. What is special about Netflix, though, is how much we:
 
@@ -146,7 +172,7 @@ The dream team model reinforces the idea that your economic security is based on
 While our teammates are fantastic, and we work together very well, we know we can always do better. We strive to have calm confidence, and yet yearn to improve. We suck compared to how great we want to become.
 
 
-### Freedom & Responsibility
+## Freedom & Responsibility
 
 There are companies where people walk by trash on the floor in the office, leaving it for someone else to pick it up, and there are companies where people lean down to pick up the trash they see, as they would at home. We try hard to be the latter, a company where everyone feels a sense of responsibility to do the right thing to help the company at every juncture. Picking up the trash is the metaphor for taking care of problems, small and large, as you see them, and never thinking “that’s not my job.” We don’t have rules about picking up the real or metaphoric trash. We try to create the sense of ownership, responsibility and initiative so that this behavior comes naturally.
 
@@ -161,11 +187,17 @@ To avoid the rigidity of over-specialization, and avoid the chaos of growth, whi
 We are dedicated to constantly increasing employee freedom to fight the python of process. Some examples of how we operate with unusual amounts of freedom are:
 
 * We share documents internally broadly and systematically. Nearly every document is fully open for anyone to read and comment on, and everything is cross-linked. Memos on each title’s performance, on every strategy decision, on every competitor, and on every product feature test are open for all employees to read. Despite this huge access, we’ve had very few leaks, due to our ethos of self-discipline and responsibility.
+
 * There are virtually no spending controls or contract signing controls. Each employee is expected to seek advice and perspective as appropriate. “Use good judgment” is our core precept.
+
 * Our policy for travel, entertainment, gifts, and other expenses is 5 words long: “act in Netflix’s best interest.” We also avoid the compliance departments that most companies have to enforce their policies.
+
 * Our vacation policy is “take vacation.” We don’t have any rules or forms around how many weeks per year. Frankly, we intermix work and personal time quite a bit, doing email at odd hours, taking off weekday afternoons for kids’ games, etc. Our leaders make sure they set good examples by taking vacations, often coming back with fresh ideas, and encourage the rest of the team to do the same.
+
 * Our parental leave policy is: “take care of your baby and yourself.” New parents generally take 4-8 months.
+
 * Each employee chooses each year how much of their compensation they want in salary versus stock options. You can choose all cash, all options, or whatever combination suits you. You choose how much risk and upside you want. These 10-year stock options are fully-vested and you keep them even if you leave Netflix.
+
 * There are no compensation handcuffs (vesting) requiring you to stay in order to get your money. People are free to leave at any time, without loss of money, and yet they overwhelmingly choose to stay. We want managers to create conditions where people love being here, for the great work and great pay.
 
 You might think that such freedom would lead to chaos. But we also don’t have a clothing policy, yet no one has come to work naked. The lesson is you don’t need policies for everything. Most people understand the benefit of wearing clothes at work.
@@ -197,7 +229,7 @@ There are some minor exceptions to “context not control,” such as an urgent 
 We tell people not to seek to please their boss. Instead, seek to serve the business. It’s OK to disagree with your manager. It’s never OK to hide anything. It’s OK to say to your manager, “I know you disagree, but I’m going to do X because I think it is a better solution. Let me know if you want to specifically override my decision.” What we don’t want is people guessing what their manager would do or want, and then executing on that guess.
 
 
-### Highly Aligned, Loosely Coupled
+## Highly Aligned, Loosely Coupled
 
 As companies grow, they often become highly centralized and inflexible. Symptoms include:
 

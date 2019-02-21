@@ -9,6 +9,17 @@
 
 # Amazon 2016 Letter to Shareholders by Jeff Bezos
 
+Contents:
+
+* [Introduction](#introduction)
+* [True Customer Obsession](#true-customer-obsession)
+* [Resist Proxies](#resist-proxies)
+* [Embrace External Trends](#embrace-external-trends)
+* [High-Velocity Decision Making](#high-velocity-decision-making)
+
+
+## Introduction
+
 “Jeff, what does Day 2 look like?”
 
 That’s a question I just got at our most recent all-hands meeting. I’ve been reminding people that it’s Day 1 for a couple of decades. I work in an Amazon building named Day 1, and when I moved buildings, I took the name with me. I spend time thinking about this topic.
