@@ -55,7 +55,6 @@ We treat each other with the same humility that we bring to our business. Many c
 There’s a delicate balance between rigor and trust. The most successful Stripes push the collective quality of thought and work to new limits. However, no matter how strong the disagreement, we believe firmly in the importance of trusting each other’s intentions.
 
 
-
 ## Global optimization
 
 Stripes do what’s best for the organization overall.
@@ -65,7 +64,6 @@ Because Stripe is highly interdependent, really good Stripes have a strong sense
 Not-my-job attitudes grate at Stripe: we admire, recognize, and reward people who do the opposite. Expect to routinely contribute to projects across the company. Expect to receive feedback from engaged coworkers who have less state about your projects than you do. You won’t always agree with feedback you get, but you should consider it seriously and with humility: it comes from a smart colleague who, like you, sincerely wants your project to succeed.
 
 In the same way that we look for the best versions of ideas from other fields outside of Stripe, valuable contributions internally transcend team borders. A Stripe in Legal or User Ops can chime in on Product or Partnerships discussions, and an engineer may offer an opinion on a sales deal: we care about the quality of thought, not where it came from.
-
 
 
 ## The Stripe service
