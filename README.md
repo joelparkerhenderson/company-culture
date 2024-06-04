@@ -14,3 +14,4 @@ Contents:
 * [A quick guide to Stripe’s culture](stripe-culture/index.md)
 * [The Five C's Of Employee-Centric Company Cultures](the-five-cs-of-employee-centric-company-culture/index.md)
 * [The Leader’s Guide to Corporate Culture](the-leaders-guide-to-corporate-culture/index.md)
+* [Cold culture versus warm culture](cold-culture-versus-warm-culture/)
